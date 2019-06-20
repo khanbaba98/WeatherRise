@@ -1,0 +1,140 @@
+{
+  "city": {
+    "name": "Srinagar",
+    "coord": {
+      "lon": 74.7973,
+      "lat": 34.0837
+    },
+    "country": "IN",
+    "population": 0
+  },
+  "list": [
+    {
+      "dt": "June 16, 2019",
+      "temp": {
+        "day": 27.5,
+        "min": 18,
+        "max": 28,
+        "night": 17,
+        "eve": 23,
+        "morn": 21
+      },
+      "humidity": 95,
+      "weather": {
+        "id": 600,
+        "main": "Snow",
+        "description": "light snow",
+        "icon": "snow"
+      }
+    },
+    {
+      "dt": "June 17, 2019",
+      "temp": {
+        "day": 25.5,
+        "min": 19,
+        "max": 22,
+        "night": 17,
+        "eve": 21,
+        "morn": 20
+      },
+      "humidity": 95,
+      "weather": {
+        "id": 600,
+        "main": "Light Snow",
+        "description": "Very light snow",
+        "icon": "light_snow"
+      }
+    },
+    {
+      "dt": "June 18, 2019",
+      "temp": {
+        "day": 27.5,
+        "min": 18,
+        "max": 28,
+        "night": 17,
+        "eve": 23,
+        "morn": 21
+      },
+      "humidity": 95,
+      "weather": {
+        "id": 600,
+        "main": "Cloudy",
+        "description": "cloudy weather",
+        "icon": "clouds"
+      }
+    },
+    {
+      "dt": "June 19, 2019",
+      "temp": {
+        "day": 27.5,
+        "min": 18,
+        "max": 28,
+        "night": 17,
+        "eve": 23,
+        "morn": 21
+      },
+      "humidity": 95,
+      "weather": {
+        "id": 600,
+        "main": "Rain",
+        "description": "Rains",
+        "icon": "rain"
+      }
+    },
+    {
+      "dt": "June 20, 2019",
+      "temp": {
+        "day": 27.5,
+        "min": 18,
+        "max": 28,
+        "night": 17,
+        "eve": 23,
+        "morn": 21
+      },
+      "humidity": 95,
+      "weather": {
+        "id": 600,
+        "main": "Clear Sky",
+        "description": "Today is clear sky",
+        "icon": "clear"
+      }
+    },
+    {
+      "dt": "June 21, 2019",
+      "temp": {
+        "day": 27.5,
+        "min": 18,
+        "max": 28,
+        "night": 17,
+        "eve": 23,
+        "morn": 21
+      },
+      "humidity": 95,
+      "weather": {
+        "id": 600,
+        "main": "Sunny",
+        "description": "sunny sky",
+        "icon": "sunny"
+      }
+    },
+    {
+      "dt": "June 22, 2019",
+      "temp": {
+        "day": 27.5,
+        "min": 18,
+        "max": 28,
+        "night": 17,
+        "eve": 23,
+        "morn": 21
+      },
+      "humidity": 95,
+      "weather": {
+        "id": 600,
+        "main": "Clear Sky",
+        "description": "Clear Sky",
+        "icon": "clear"
+      }
+    }
+  ]
+
+}
