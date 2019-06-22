@@ -2,14 +2,10 @@ package com.khanbaba.weatherdemo;
 
 import android.content.Context;
 import android.widget.Toast;
-
 import java.io.IOException;
 import java.io.InputStream;
 
 public class JSONParser {
-
-    public JSONParser() {
-    }
 
     public String loadJsonFromAsset(Context context){
         String json = null;
